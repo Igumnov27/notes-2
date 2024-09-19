@@ -1,22 +1,22 @@
-# Number row characters
+# Number Row Characters
 
-! explanation mark
+- ! explanation mark
 
-@ gmail sign
+- @ gmail sign
 
-# number sign
+- #number sign
 
-$ dollar sign
+- $ dollar sign
 
-% percent sign
+- % percent sign
 
-^ degree sign
+- ^ degree sign
 
-& And sign
+- & And sign
 
-* Asterisk sign
+-  *Asterisk sign
   
-( dash sign
+- ( dash sign
 
 [GitHub Pages](https://pages.github.com/)
 
