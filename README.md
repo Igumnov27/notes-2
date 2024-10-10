@@ -27,3 +27,5 @@
 # Experiments
 
 :blush: :smirk: :kissing_closed_eyes: :bowtie: :smile: :laughing: 
+
+[CLI commands](docs/cli.md)
