@@ -1,0 +1,2 @@
+ls - merges the file listing in the index with the actual working directory list, and shows different combinations of the two.
+cat - creates single or multiple files, view content of a file, concentrate files and redirect output in terminal or files.
